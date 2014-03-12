@@ -14,7 +14,7 @@
 
 Домашнее задание 3. Implementor
 ----
-*  Класс ``Implementor`` должен реализовывать интерфейс [Impler](info/kgeorgiy/java/advanced/implementor/Impler.java)
+*  Класс ``Implementor`` должен реализовывать интерфейс [Impler](src/info/kgeorgiy/java/advanced/implementor/Impler.java)
 * Протестировать сложную версию задания: 
     ```
     info.kgeorgiy.java.advanced.implementor.Tester class <полное имя класса>```
