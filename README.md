@@ -18,8 +18,8 @@
 ----
 * Домашние задания 3-5 принимаются только совместно
 * Класс ``Implementor`` должен реализовывать интерфейсы 
-  [Impler](info/kgeorgiy/java/advanced/implementor/Impler.java)
-  и [JarImpler](info/kgeorgiy/java/advanced/implementor/JarImpler.java)
+  [Impler](src/info/kgeorgiy/java/advanced/implementor/Impler.java)
+  и [JarImpler](src/info/kgeorgiy/java/advanced/implementor/JarImpler.java)
 * Протестировать сложную версию задания: 
     ```
     info.kgeorgiy.java.advanced.implementor.Tester class <полное имя класса>
