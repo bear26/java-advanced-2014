@@ -14,9 +14,12 @@
     info.kgeorgiy.java.advanced.arrayset.Tester SortedSet <полное имя класса>
     ```
 
-Домашнее задание 3. Implementor
+Домашние задания 3-5. Implementor
 ----
-* Класс ``Implementor`` должен реализовывать интерфейс [Impler](src/info/kgeorgiy/java/advanced/implementor/Impler.java)
+* Домашние задания 3-5 принимаются только совместно
+* Класс ``Implementor`` должен реализовывать интерфейсы 
+  [Impler](info/kgeorgiy/java/advanced/implementor/Impler.java)
+  и [JarImpler](info/kgeorgiy/java/advanced/implementor/JarImpler.java)
 * Протестировать сложную версию задания: 
     ```
     info.kgeorgiy.java.advanced.implementor.Tester class <полное имя класса>
